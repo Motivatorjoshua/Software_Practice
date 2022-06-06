@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Joan', serif;
+}
+
+.header {
+    text-align: center;
+    background-color: rgb(164, 164, 236) ;
+    color: white;
+}
+
+.header2 {
+    text-align: center;
+}
+
+.header3 {
+    text-align: justify;
+    background-color: rgb(164, 164, 236) ;
+    color: white;
+
+}
